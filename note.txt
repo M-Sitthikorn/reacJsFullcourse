@@ -1,0 +1,20 @@
+# First 
+git init
+git remote add origin URL
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
+
+# second
+git status
+git add .
+git commit -m "Updated files"
+git pull origin main --rebase
+git push origin main
+
+
+# error: failed to push some refs to 'https://github.com/M-Sitthikorn/reacJsFullcourse.git'
+# hint: Updates were rejected because the remote contains work that you do not have locally
+
+git pull origin main --rebase
