@@ -25,3 +25,11 @@ git push -u origin main
 
 Link
 https://www.youtube.com/watch?v=dz458ZkBMak
+
+https://www.youtube.com/watch?v=dz458ZkBMak
+
+react form zero
+https://github.com/kay-is/react-from-zero/blob/master/00-object-elements.html
+
+e-books 
+https://javascript.info/
