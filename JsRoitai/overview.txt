@@ -1,0 +1,7 @@
+Data type 
+Variables 
+Function 
+Objects 
+Array
+if
+Destruc
